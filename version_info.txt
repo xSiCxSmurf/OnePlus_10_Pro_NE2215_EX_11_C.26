@@ -1,0 +1,23 @@
+[
+{
+"compile_time": "2023-01-10 14:12:24",
+"compiler": "192.168.144.102",
+"platform": "SM8450",
+"version_name": "NE2215_11_C.26_230110",
+"version_type": "normal",
+"project": "20847",
+"download_type": "nv10100001",
+"sha256": "43b5b99c5769567535ad9696fbc4b4aae571a5dbc5f218596b8f6c89e716d18e"
+}
+,
+{
+"compile_time": "2023-01-10 14:12:24",
+"compiler": "192.168.144.102",
+"platform": "SM8450",
+"version_name": "NE2211_11_C.26_230110",
+"version_type": "normal",
+"project": "20847",
+"download_type": "nv00011011",
+"sha256": "e0333444b19a415c50562b880bc941267d8aff442c7eb8706a06e09318f98612"
+}
+]

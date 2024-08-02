@@ -1,0 +1,1 @@
+dfx sign result is 0
